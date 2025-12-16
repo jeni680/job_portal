@@ -151,16 +151,6 @@ The project supports **bulk seeding** using Python scripts:
 
 This makes the app **demo-ready instantly**.
 
----
-
-## 🎯 Why This Project Stands Out
-
-* Role-based architecture (not just CRUD)
-* Secure password handling
-* Clean separation of concerns
-* Proper database constraints
-* Realistic data flow
-* Interview-ready complexity
 
 ---
 
