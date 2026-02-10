@@ -126,11 +126,6 @@ http://localhost:8501
 
 ## 🔐 Demo Credentials
 
-### Admin
-
-* **Username:** admin
-* **Password:** admin123
-
 ### Employers (password same for all)
 
 * Infosys / Wipro / Accenture / IBM / Zoho
